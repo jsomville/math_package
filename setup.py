@@ -11,6 +11,7 @@ setup(
         version=VERSION,
         author="JSB",
         author_email="email@domain.com",
+        url="https://github.com/jsomville/math_package",
         description=DESCRIPTION,
         long_description=LONG_DESCRIPTION,
         packages=find_packages(),
